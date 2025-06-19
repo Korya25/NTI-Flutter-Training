@@ -5,7 +5,8 @@ This repository contains all the projects I built during my internship at NTI (M
 ## 📁 List of Projects
 
 A. **Dart** – Dart Tasks
-1. **Dart Tasks** – Loop - List -Var - Dynmic - Map
+1. **Tasks** – Loop - List -Var - Dynmic - Map
+2. **Questions** – Loop - Const - Set - Function - Map
 
 
 ---
