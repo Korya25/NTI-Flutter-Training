@@ -8,6 +8,10 @@ A. **Dart** – Dart Tasks
 1. **Tasks** – Loop - List -Var - Dynmic - Map
 2. **Questions** – Loop - Const - Set - Function - Map
 
+---
+
+A. **Flutter** – Flutter Projects
+1. **Charcaters App** – A - B - C - etc - Grid View 
 
 ---
 
