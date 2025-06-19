@@ -13,6 +13,7 @@ A. **Dart** – Dart Tasks
 A. **Flutter** – Flutter Projects
 1. **Charcaters App** – A - B - C - etc - Grid View 
 2. **Artify App** – rtifya showcases smooth, modern design screens for discovering, viewing, and bidding on NFTs.
+2. **Doctor Hunt App** – rtifya showcases smooth, modern design screens for discovering, viewing, and bidding on NFTs.
 
 ---
 
