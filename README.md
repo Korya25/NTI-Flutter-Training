@@ -1,5 +1,6 @@
-# 🚀 NTI Flutter Training  
-
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&color=00FF00&center=true&vCenter=true&width=600&lines=🚀+NTI+Flutter+Training" alt="Typing SVG" />
+</h1>
 This repository contains all the projects I built during my internship at **NTI**  
 📅 *May 25, 2025 – August 1, 2025*  
 
