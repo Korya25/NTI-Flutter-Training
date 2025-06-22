@@ -38,9 +38,9 @@ Each folder includes a standalone Flutter or Dart project, categorized for clari
 ### 🔧 C. Flutter – UI + Backend Projects  
 > ✅ **Includes real API/backend integration using packages like Dio or Firebase**
 
-1. **Fake Store App**  
-   - Integrated with FakeStoreAPI  
-   - Shows product list, details, and categories using Dio + Cubit
+1. **Simple Random User App**  
+   - Integrated with Random User API  
+   - Cards to Represent Image, Name, etc using Dio + Cubit
 
 
 ---
